@@ -67,15 +67,16 @@ Results are interpreted through two sociological frameworks:
 ---
 
 ## Repository Structure
-
-\```
-├── individual_project.ipynb       # Full analysis notebook
-├── final_project_presentation.pdf
-├── data/                          # Add chicago_crimes_2018_2023.csv here
-├── .gitignore
-└── README.md
-\```
-
+ 
+| File | Description |
+|---|---|
+| `individual_project.ipynb` | Full analysis notebook |
+| `final_project_presentation.pdf` | Project presentation slides |
+| `data/` | Add `chicago_crimes_2018_2023.csv` here |
+| `.gitignore` | Ignores large data files |
+| `README.md` | This file |
+ 
+---
 ---
 
 ## Tools & Libraries
