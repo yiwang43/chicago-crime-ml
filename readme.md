@@ -77,7 +77,6 @@ Results are interpreted through two sociological frameworks:
 | `README.md` | This file |
  
 ---
----
 
 ## Tools & Libraries
 
