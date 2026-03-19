@@ -1,6 +1,6 @@
 # Chicago Crime Arrest Prediction
 
-> **MACS 30100 | University of Chicago | Winter 2026**  
+> **University of Chicago | MACSS**  
 > Author: Yi Wang
 
 ---
@@ -67,21 +67,11 @@ Results are interpreted through two sociological frameworks:
 ---
 
 ## Repository Structure
-
-```
 ├── individual_project.ipynb      # Full analysis notebook
 ├── final_project_presentation.pdf
-├── cm_logistic_regression_test.png
-├── cm_logistic_regression_validation.png
-├── cm_random_forest_test.png
-├── cm_random_forest_validation.png
-├── rf_feature_importance.png
-├── rf_randomsearch_results.png
-├── ra_lr_coefficients.png
 ├── data/                         # Add chicago_crimes_2018_2023.csv here
 ├── .gitignore
 └── README.md
-```
 
 ---
 
